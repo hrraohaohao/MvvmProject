@@ -1,2 +1,2 @@
 # MvvmProject
-Mvvm架构整理
+Mvvm 和  mvp 融合起来的架构整理

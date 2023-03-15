@@ -11,6 +11,9 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+
 }
 rootProject.name = "mvvmpProject"
 include ':app'
+include ':netCommon'
+include ':commom'
